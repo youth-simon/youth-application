@@ -115,11 +115,10 @@
 
 은행의 업무 수신, 여신, 외환으로 나눌 수 있습니다.
 
-![image.png](attachment:41976330-cb22-404a-b5aa-b901666feb60:image.png)
+<img width="960" height="1130" alt="image" src="https://github.com/user-attachments/assets/abe517bf-b1a4-4e82-8ac9-97a23f047697" />
+<img width="910" height="582" alt="image" src="https://github.com/user-attachments/assets/5279404d-90f1-4cef-8bc5-5be23d0f1eff" />
+<img width="856" height="445" alt="image" src="https://github.com/user-attachments/assets/75df2fb1-5692-4012-b77d-09b891c10d29" />
 
-![image.png](attachment:e7996a27-de2e-4877-9452-1a440c0262b9:image.png)
-
-![image.png](attachment:27a8c244-f6c2-4f14-9733-3f00e76b2b63:image.png)
 
 - 어떤 인재를 원할까?
 1. 몰입을 원하는 심리적 동기를 가진 답변들을 하는 후보
